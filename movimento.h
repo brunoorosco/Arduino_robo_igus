@@ -1,4 +1,4 @@
-
+//mikroC
 //********* subrotina de movimento do motor **************// 
 int mover(int motor, int sentido, int passo, int acelera){
   
